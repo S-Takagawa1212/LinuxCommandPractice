@@ -44,7 +44,7 @@ $ mkdir practice_dir_1/practice_dir_2
 $ ls -al ./practice_dir_1
 
 # 12. `LinuxCommandPractice`ディレクトリ内から**移動せずに**、`./practice_dir_1/practice_dir_2`ディレクトリ内に`practice_file1.txt`、`practice_file2.txt`というファイルを**一回のコマンドで**作成してください。**但し、相対パスを使用してください。**
-$ touch ./practice_dir_1/practice_dir_2/practice_file{3,4}.txt
+$ touch ./practice_dir_1/practice_dir_2/practice_file{1,2}.txt
 
 # 13 `practice_dir_2`に移動してください。**但し、相対パスを使用してください。**
 $ cd ./practice_dir_1/practice_dir_2
